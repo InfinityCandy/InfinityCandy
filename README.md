@@ -14,7 +14,7 @@
 
 - 🏢 I'm currently working at **Universidad Autónoma de Querétaro**
 - ⚙️ I use daily: `.js`, `.php`, `.python` and `.flutter`
-- 🌱 Learning all about **Docker and ML**
+- 🌱 Learning all about **Docker** and **ML**
 
 ## ⚡ Technologies
 ![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=flutter)
