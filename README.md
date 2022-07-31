@@ -13,7 +13,7 @@
 ##### BIO
 
 - 🏢 I'm currently working as **Freelancer**
-- ⚙️ I use daily: `.js`, `.php`, `.python` and `.flutter`
+- ⚙️ I use daily: `.js`, `.python` and `.flutter`
 - 🌱 Learning all about **Python** and **ML**
 
 ## ⚡ Technologies
