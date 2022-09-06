@@ -1,4 +1,6 @@
-https://api.daily.dev/devcards/f114fdaf67df43e7acaf6f9b89553d8d.png?r=b5e
+<a href="https://app.daily.dev/InfinityCandy"><img src="https://api.daily.dev/devcards/f114fdaf67df43e7acaf6f9b89553d8d.png?r=b5e" width="400" alt="Luis Salazar's Dev Card"/></a>
+
+
 
 ### Hi there, I'm Luis! 👋
 
