@@ -1,7 +1,3 @@
-<a href="https://app.daily.dev/InfinityCandy"><img src="https://api.daily.dev/devcards/f114fdaf67df43e7acaf6f9b89553d8d.png?r=b5e" width="400" alt="Luis Salazar's Dev Card"/></a>
-
-
-
 ### Hi there, I'm Luis! 👋
 
 <p><em>Software Engineer
@@ -42,4 +38,8 @@
 ![AdobeXD](https://img.shields.io/badge/-AdobeXD-white?style=flat-square&logo=adobexd)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=InfinityCandy&count_private=true&show_icons=true&include_all_commits=true)
+
+
+<a href="https://app.daily.dev/InfinityCandy"><img src="https://api.daily.dev/devcards/f114fdaf67df43e7acaf6f9b89553d8d.png?r=b5e" width="400" alt="Luis Salazar's Dev Card"/></a>
+
 
