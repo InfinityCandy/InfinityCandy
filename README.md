@@ -40,5 +40,5 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=InfinityCandy&count_private=true&show_icons=true&include_all_commits=true)
 
 
-<a href="https://app.daily.dev/InfinityCandy"><img src="https://github.com/InfinityCandy/InfinityCandy/blob/main/devcard.svg" width="400" alt="Luis Salazar's Dev Card""/></a>
+<a href="https://app.daily.dev/InfinityCandy"><img src="https://github.com/InfinityCandy/InfinityCandy/blob/main/devcard.svg" width="400" alt="Luis Salazar's Dev Card"/></a>
 
