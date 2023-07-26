@@ -1,46 +1,47 @@
-### Hi there, I'm Luis! 👋
+# 🐼 InfinityCandy (Luis Salazar)
 
-<p><em>Software Engineer
-</br>Fullstack Engineer
-</em></p>
+**`Fulltask Developer/ Flutter Mobile Developer`**
 
-[![GitHub Luis](https://img.shields.io/github/followers/InfinityCandy?label=follow&style=social)](https://github.com/InfinityCandy)
+### 👨‍💻 BIO
 
-##### NOW
+I'm a Fullstack web developer who loves to create applications from scratch, starting with designing the app, implementing the first screens, building and understanding the business logic, deploying the application and watch it run! I truly believe that every small effort counts, and little bit little we get closer to our goals. It is this exact same idea the one that I apply to my development process. I also like to understand the why of things and the set of rules that make them happen.
 
-- Working and Learning
+- 🏢 Currently working at **Prontohousing**
+- ⚙️ Use daily: `.js`, `.python` and `.flutter`
+- 🌱 Learning all about **Python** and **DevOps**
 
-##### BIO
 
-- 🏢 I'm currently working as **Freelancer**
-- ⚙️ I use daily: `.js`, `.python` and `.flutter`
-- 🌱 Learning all about **Python** and **ML**
+<p align="left">
+  <a href="https://github.com/InfinityCandy?tab=followers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/InfinityCandy?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+</p>
 
-## ⚡ Technologies
-![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=flutter)
-![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python)
-![Django](https://img.shields.io/badge/-Django-132c20?style=flat-square&logo=django)
-![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)
-![MySQL](https://img.shields.io/badge/-MySQL-white?style=flat-square&logo=mysql)
-![Postgresql](https://img.shields.io/badge/-Postgresql-black?style=flat-square&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
-![Laravel](https://img.shields.io/badge/-Laravel-white?style=flat-square&logo=laravel)
-![Octave](https://img.shields.io/badge/-Octave-orange?style=flat-square&logo=octave)
-![Java](https://img.shields.io/badge/-Java-d33830?style=flat-square&logo=java)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![AdobeXD](https://img.shields.io/badge/-AdobeXD-white?style=flat-square&logo=adobexd)
+ ***
+ ### 🧰 Languages and Tools
+<img align="center" alt="Flutter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/> 
+<img align="center" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> 
+<img align="center" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> 
+<img align="center" alt="Django" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/> 
+<img align="center" alt="ReactJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/> 
+<img align="center" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+<img align="center" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+<img align="center" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"/>
+<img align="center" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img align="center" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img align="center" alt="Flask" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"/>
+<img align="center" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img align="center" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+<img align="center" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+<img align="center" alt="Firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
+<img align="center" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+
+<br />
+
+***
+### 💻 GitHub Profile Stats
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=InfinityCandy&count_private=true&show_icons=true&include_all_commits=true)
 
+***
 
 <a href="https://app.daily.dev/InfinityCandy"><img src="https://github.com/InfinityCandy/InfinityCandy/blob/main/devcard.svg" width="400" alt="Luis Salazar's Dev Card"/></a>
-
