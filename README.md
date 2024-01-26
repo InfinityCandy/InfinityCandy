@@ -44,4 +44,4 @@ I'm a Fullstack web developer who loves to create applications from scratch, sta
 
 ***
 
-<a href="https://app.daily.dev/InfinityCandy"><img src="https://github.com/InfinityCandy/InfinityCandy/blob/main/devcard.svg" width="400" alt="Luis Salazar's Dev Card"/></a>
+<a href="https://app.daily.dev/infinitycandy"><img src="https://api.daily.dev/devcards/f114fdaf67df43e7acaf6f9b89553d8d.png?r=7tk" width="400" alt="Luis Salazar's Dev Card"/></a>
