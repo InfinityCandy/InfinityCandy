@@ -43,5 +43,4 @@ I'm a Fullstack web developer who loves to create applications from scratch, sta
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=InfinityCandy&count_private=true&show_icons=true&include_all_commits=true)
 
 ***
-
-<a href="https://app.daily.dev/infinitycandy"><img src="https://api.daily.dev/devcards/f114fdaf67df43e7acaf6f9b89553d8d.png?r=7tk" width="400" alt="Luis Salazar's Dev Card"/></a>
+<a href="https://app.daily.dev/infinitycandy"><img src="https://api.daily.dev/devcards/v2/CifOmHmtKHCaQbABibf1K.png?type=default&r=4t9" width="356" alt="Luis Salazar's Dev Card"/></a>
